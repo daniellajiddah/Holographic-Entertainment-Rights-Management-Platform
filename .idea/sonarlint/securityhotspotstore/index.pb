@@ -7,3 +7,5 @@ S
 #contracts/holo-performance-nft.clar,8/0/80a87392f66f282da58b1ab03208780e73fce101
 R
 "tests/holo-performance-nft.test.ts,b/a/baaee9114bd54b088f8adbe00416c5fc405d9804
+R
+"tests/fan-engagement-token.test.ts,b/f/bf382f5379f11893f7c38bd157dab6a67239987c
